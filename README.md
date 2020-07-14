@@ -1,4 +1,4 @@
-![<img src="https://www.ontestautomation.com/files/logo_large.png">](https://www.ontestautomation.com)
+![]("https://www.ontestautomation.com/files/logo_large.png")
 
 <!--
 **basdijkstra/basdijkstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
